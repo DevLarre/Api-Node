@@ -28,8 +28,8 @@ Este projeto é uma API simples de produtos construída em **Node.js** utilizand
 1. Clone o repositório:
 
    ```
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone https://github.com/DevLarre/Api-Node
+   cd Api-Node
    ```
 
 2. Instale as dependências:
